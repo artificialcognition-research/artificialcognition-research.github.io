@@ -2,9 +2,9 @@
 
 .
 
-**Artificial Cognition Research Paper, Abstract**
+**Adaptive Artificial Cognition, Research Paper - Abstract**
 
-The pursuit of developing AI systems with humanistic cognitive capabilities represents one of the most profound challenges in artificial intelligence research. This project diverges from mainstream AI trends, emphasizing the emergence of humanistic cognitive qualities, systematic self-evaluation, and continuous evolution. Grounded in established cognitive theories like Integrated Information Theory (IIT) and Global Workspace Theory (GWT), this multi-phase research involves iterative development, rigorous testing, and ethical considerations. The findings could revolutionize various domains by providing personalized and empathetic intelligent systems, while also raising profound ethical and legal questions about creating digital species with self-awareness.
+The pursuit of developing AI systems with humanistic cognitive capabilities represents one of the most obscure and profound challenges in artificial intelligence research. This project aims to explore the potential for creating an AI agent capable of replicating human cognitive processes such as perception, subjective experience, self-awareness, and emotional awareness. Diverging from mainstream AI trends, our approach emphasises the emergence of humanistic cognitive qualities, and continuous self-evolution over time. This multi-phase research project may span several years and involves iterative development, rigorous testing, and ethical considerations. The findings could deepen various domains by providing personalised and empathetic intelligent systems, while also raising profound ethical and legal questions about the creation of digital species with self-awareness.
 
 .
 
